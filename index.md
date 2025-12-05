@@ -1,8 +1,3 @@
----
-title: "Welcome"
-layout: default
----
-
 # Welcome to My Blog
 
 Hello, I am **Nisam**.  
